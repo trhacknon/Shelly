@@ -5,7 +5,7 @@
 - <kbd>Download / Install</kbd>
 
 ```cmd
-root@kali:~# wget -q "https://raw.githubusercontent.com/d4t4s3c/Shelly/main/shelly.sh" -O /usr/bin/shelly
+root@kali:~# wget -q "https://raw.githubusercontent.com/trhacknon/Shelly/main/shelly.sh" -O /usr/bin/shelly
 root@kali:~# chmod +x /usr/bin/shelly
 ```
 
